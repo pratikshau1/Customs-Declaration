@@ -31,7 +31,7 @@ The Customs Declaration Processing System is a console-based application that fa
 3. Run the application:
     python main.py
 
-##Usage
+### Usage
 
 -Launch the application to see the main menu.
 -Follow the prompts to:
@@ -41,10 +41,10 @@ The Customs Declaration Processing System is a console-based application that fa
 -Process a customs declaration
 -Track compliance
 
-##Contributing
+### Contributing
 -Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
 
-##Acknowledgments
+### Acknowledgments
 -Python Documentation
 -Inspiration from customs regulation practices.
